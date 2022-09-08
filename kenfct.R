@@ -45,7 +45,7 @@ kenfct <- readxl::read_excel(here::here('data', "MOH-KENFCT_2018.xlsx"),
 ken_names <- c('code', 'fooditem', 'EDIBLE', 'ENERC2', 'ENERC1', 'WATER', 
               'PROTCNT', 'FAT',  'CHOAVLDF', 'FIBTG', 'ASH', 
               'CA', 'FE', 'MG', 'P', 'K', 'NA.', 'ZN', 'SE',
-              'VITA_RAE', 'VITA', 'RETOL', 'CARBEQ', 
+              'VITA_RAE', 'VITA', 'RETOL', 'CARTBEQ', 
               'THIA', 'RIBF', 'NIA', 'FOLDFE', 'FOLFD',
               'VITB12', 'VITC', 'CHOLE', 'OXALAC', 'PHYTCPPD', 'IP3', 'IP4',
               'IP5', 'IP6','FASAT', "FAMS","FAPU", 'FCT')
